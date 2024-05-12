@@ -1,15 +1,7 @@
 # FullStack Wanderlust website: Nodejs, Express, MongoDB, PassportAuth
 
-![alt text](https://github.com/abhisheksharma8630/megaProject/blob/main/Full.png)
-
 This is repository of FullStack website Wanderlust with Nodejs, Expressjs, MongoDB
 
-
-### Cloning the Repository
-
-```shell
-git clone https://github.com/abhisheksharma8630/Wanderlust_MegaProject.git
-```
 
 Features:
 
